@@ -46,7 +46,7 @@
     "focus-trap-react": "^8.9.1",
     "full-icu": "^1.4.0",
     "fuzzyset.js": "^1.0.7",
-    "graphql": "^15.8.0",
+    "graphql": "^16.5.0",
     "graphql-tag": "^2.12.6",
     "history": "^4.10.1",
     "hoist-non-react-statics": "^3.3.2",
