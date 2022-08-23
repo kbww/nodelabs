@@ -43,7 +43,7 @@
     "emotion-normalize": "^11.0.1",
     "express-useragent": "^1.0.15",
     "final-form": "^4.20.6",
-    "focus-trap-react": "^8.9.1",
+    "focus-trap-react": "^9.0.2",
     "full-icu": "^1.4.0",
     "fuzzyset.js": "^1.0.7",
     "graphql": "^15.8.0",
