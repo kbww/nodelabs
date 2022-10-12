@@ -16,6 +16,6 @@ The app has the following functionality:
 * In your terminal*.
 * Run 
   ```bash
-  git clone https://github.com/malwarebo/nodeapps
-  cd nodeapps/nodeapp
+  git clone https://github.com/malwarebo/node_playground
+  cd node_playground/speaker_service
   ```
