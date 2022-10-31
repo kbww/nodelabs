@@ -28,7 +28,7 @@
     "badge-maker": "^3.3.1",
     "body-scroll-lock": "^3.1.5",
     "browserslist": "^4.19.1",
-    "browserslist-useragent": "^3.0.3",
+    "browserslist-useragent": "^4.0.0",
     "bunyan": "^1.8.15",
     "cacheable-lookup": "^7.0.0",
     "connected-react-router": "^6.9.2",
