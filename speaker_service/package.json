@@ -22,7 +22,7 @@
     "cors": "2.8.5",
     "debug": "4.3.4",
     "fluent-logger-node": "0.0.3",
-    "google-auth-library": "8.6.0",
+    "google-auth-library": "8.7.0",
     "ioredis": "5.2.4",
     "joi": "17.6.4",
     "badge-maker": "^3.3.1",
