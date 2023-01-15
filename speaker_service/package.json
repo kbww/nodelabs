@@ -103,7 +103,7 @@
     "validator": "^13.7.0",
     "web-vitals": "^3.0.2",
     "whatwg-fetch": "^3.6.2",
-    "knex": "0.21.5",
+    "knex": "2.4.0",
     "lodash": "4.17.21",
     "lynx": "0.2.0",
     "minimist": "1.2.7",
