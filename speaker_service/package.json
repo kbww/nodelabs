@@ -16,7 +16,7 @@
     "express-validator": "^6.10.0",
     "http-errors": "^2.0.0",
     "aws-sdk": "2.1295.0",
-    "axios": "1.2.2",
+    "axios": "1.2.6",
     "bookshelf": "1.2.0",
     "bookshelf-virtuals-plugin": "1.0.0",
     "cors": "2.8.5",
